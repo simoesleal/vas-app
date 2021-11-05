@@ -42,7 +42,7 @@
                             :min="0"
                             :step="0.01"
                             :thumb-color="'blue darken-3'"
-                            :thumb-label="'always'"
+                            :thumb-label="true"
                             :prepend-icon="'0'"
                             :append-icon="'10'"
                           ></v-slider>
@@ -82,7 +82,7 @@ export default {
       required: INPUT_REQUIRED,
     },
     name: null,
-    value: 5,
+    value: null,
     vasFormStatus: false,
   }),
 
