@@ -42,7 +42,6 @@
                             :min="0"
                             :step="0.01"
                             :thumb-color="'blue darken-3'"
-                            :thumb-label="true"
                             :prepend-icon="'0'"
                             :append-icon="'10'"
                           ></v-slider>
