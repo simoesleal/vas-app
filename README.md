@@ -1,4 +1,4 @@
-# vas-app
+# vas-app - Visual Analogue Scale
 
 ## Build Setup
 
